@@ -1,11 +1,11 @@
 # ICS-ML-anomaly-detection
+ The repository is in a prototype stage so expect frequent commits.
+ 
  Repository for the detection of cyber threats in ICS using machine learning. We used two machine learning algorithms:
  * Isolated forest
  * CNN
 
  We are dealing with an anomaly detection problem in ICS (PLC) network communication. Our goal is to detect changes in network traffic, intrusions and harmful code injection. We use network packets to train our models.
-
- The repository is in a prototype stage so expect frequent commits..
 
 ## Getting Started
 
