@@ -7,6 +7,8 @@
 
  We are dealing with an anomaly detection problem in ICS (PLC) network communication. Our goal is to detect changes in network traffic, intrusions and harmful code injection. We use network packets to train our models.
  The motivation behind is to successfully detect possible cyber threats in industrial systems in real time. The current era of IoT is rapidly growing and so is the number of possible threats and attacks on them. We aim to harness machine learning models to tackle this problem.
+ 
+ The algorithms take a sequence of packets as an input (in HEX) and create predictions levels of suspisious changes. In time, we will deploy the best-in-case model to a real-time industrial system.
 
 ## Getting Started
 
